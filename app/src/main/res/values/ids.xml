@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnView1" type="id" />
+    <item name="btnTake2" type="id" />
+    <item name="btnView2" type="id" />
+    <item name="btnTake3" type="id" />
+    <item name="btnTake1" type="id" />
+    <item name="btnView3" type="id" />
+</resources>
